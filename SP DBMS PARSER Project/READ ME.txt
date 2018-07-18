@@ -1,0 +1,7 @@
+Respected  Sir,
+
+In the submitted Project select query is only valid for ( *,all,distinct,unique,where ) clauses.
+But we are still working on the functions of 'WHERE' clause like ( and,or,like,between,etc ).
+I hope you won't face any kind of problem while running our project.
+
+Thank you 
